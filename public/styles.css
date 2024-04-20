@@ -1,0 +1,25 @@
+.jordansContainer {
+   display: block;
+}
+
+.title{
+    color:navy;
+    font-size: 8vh;
+    background-color: orange;
+}
+
+.header2 {
+    color:navy;
+    font-size: 6vh;
+    background-color: orange;
+}
+
+.body {
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.2xi2JGcFmgGYDkEODs7cPQHaKf&pid=Api&P=0&h=220);
+}
+
+.kickPics{
+    display: flex;
+    width: 100%;
+    height: 15em;
+}
